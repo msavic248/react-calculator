@@ -1,4 +1,4 @@
-import {ACTIONS} from './App.jsx';
+import {ACTIONS} from './Calculator.jsx';
 
 export default function DigitButton({dispatch, digit}) {
   return (
