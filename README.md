@@ -1,4 +1,4 @@
-# Calculator app built with React
+# [Calculator app](https://msavic248.github.io/react-calculator) built with React
 
 Simple calculator creating using useReducer React hook to manage complex state.
 
